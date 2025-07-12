@@ -1,9 +1,13 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: Beauty Valen Fajri  
+**Nama Mahasiswa**: Beauty Valen Fajri
+
 **NRP**: 5025211227  
+
 **Judul TA**: Identifikasi Big Five Personality pada Tangkapan Layar Wawancara dengan Metode Deep Ensemble
+
 **Dosen Pembimbing**: Shintami Chusnul Hidayati, S.Kom., M.Sc., Ph.D.  
+
 **Dosen Ko-pembimbing**: Ratih Nur Esti Anggraini, S.Kom., M.Sc., Ph.D.
 
 ---
